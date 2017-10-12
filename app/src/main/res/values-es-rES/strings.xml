@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Hola mundo desde sección: %1$d</string>
+    <string name="image_desc">Descripción</string>
+
+    <string name="asteroid_text">Asteroides</string>
+    <string name="asteroid_play">Jugar</string>
+    <string name="asteroid_config">Configurar</string>
+    <string name="asteroid_about">Acerca de</string>
+    <string name="asteroid_exit">Salir</string>
+</resources>
